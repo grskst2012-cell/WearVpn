@@ -1,0 +1,16 @@
+*.iml
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+.kotlin/
+
+# артефакты и тяжёлая зависимость (скачивается отдельно, см. README)
+dist/
+*.apk
+app/libs/*.aar
